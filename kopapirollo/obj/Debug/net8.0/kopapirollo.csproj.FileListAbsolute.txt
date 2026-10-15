@@ -1,0 +1,14 @@
+C:\Users\arthoffer.mate\Desktop\kopapirollo\kopapirollo\bin\Debug\net8.0\kopapirollo.exe
+C:\Users\arthoffer.mate\Desktop\kopapirollo\kopapirollo\bin\Debug\net8.0\kopapirollo.deps.json
+C:\Users\arthoffer.mate\Desktop\kopapirollo\kopapirollo\bin\Debug\net8.0\kopapirollo.runtimeconfig.json
+C:\Users\arthoffer.mate\Desktop\kopapirollo\kopapirollo\bin\Debug\net8.0\kopapirollo.dll
+C:\Users\arthoffer.mate\Desktop\kopapirollo\kopapirollo\bin\Debug\net8.0\kopapirollo.pdb
+C:\Users\arthoffer.mate\Desktop\kopapirollo\kopapirollo\obj\Debug\net8.0\kopapirollo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthoffer.mate\Desktop\kopapirollo\kopapirollo\obj\Debug\net8.0\kopapirollo.AssemblyInfoInputs.cache
+C:\Users\arthoffer.mate\Desktop\kopapirollo\kopapirollo\obj\Debug\net8.0\kopapirollo.AssemblyInfo.cs
+C:\Users\arthoffer.mate\Desktop\kopapirollo\kopapirollo\obj\Debug\net8.0\kopapirollo.csproj.CoreCompileInputs.cache
+C:\Users\arthoffer.mate\Desktop\kopapirollo\kopapirollo\obj\Debug\net8.0\kopapirollo.dll
+C:\Users\arthoffer.mate\Desktop\kopapirollo\kopapirollo\obj\Debug\net8.0\refint\kopapirollo.dll
+C:\Users\arthoffer.mate\Desktop\kopapirollo\kopapirollo\obj\Debug\net8.0\kopapirollo.pdb
+C:\Users\arthoffer.mate\Desktop\kopapirollo\kopapirollo\obj\Debug\net8.0\kopapirollo.genruntimeconfig.cache
+C:\Users\arthoffer.mate\Desktop\kopapirollo\kopapirollo\obj\Debug\net8.0\ref\kopapirollo.dll
